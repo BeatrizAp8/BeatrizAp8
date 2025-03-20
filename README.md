@@ -8,3 +8,5 @@ Intermediário e Espanhol básico.
 Realizei diversos projetos e um deles que me marcou foi quando apresentei um aplicativo no programa de Startup in School com 
 parceria das empresas Ideias de Futuros e Google, onde tive uma grande experiência e oportunidade de desenvolver minhas habilidades.
 
+Tecnologias:
+<i class="devicon-angularjs-plain colored"></i>
